@@ -1,2 +1,2 @@
-# HTML do blogspot igorpalacio.blogspot.com
+# codigo do blogspot igorpalacio.blogspot.com
 

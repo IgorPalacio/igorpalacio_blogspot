@@ -1,4 +1,2 @@
-# Teste
-pequeno teste. 
+# HTML do blogspot igorpalacio.blogspot.com
 
-modificacao feita as 13:50
